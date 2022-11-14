@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int main(){
+    int n=-9;
+    if(n=1-10){
+    printf("n is between 1-10");}
+    return 0;
+}

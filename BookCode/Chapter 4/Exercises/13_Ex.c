@@ -1,0 +1,1 @@
+// the prefix increment operator ++i is equivalent to (i+=1) bcz the value is incremented immideatly but in case of postfix it is not immideatily read and read as i for the first time
